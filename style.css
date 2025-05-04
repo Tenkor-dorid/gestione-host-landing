@@ -1,0 +1,53 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #4CAF50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .btn {
+    background: white;
+    color: #4CAF50;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+  }
+  
+  section {
+    padding: 2rem;
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  form input[type="email"] {
+    padding: 0.75rem;
+    width: 60%;
+    margin-right: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  form button {
+    padding: 0.75rem 1.25rem;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #eee;
+    font-size: 0.9rem;
+  }
